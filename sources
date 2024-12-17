@@ -10,3 +10,9 @@ Computer Networks - Andrew S. Tanenbaum, David J. Wetherall
 DNS and BIND - Cricket Liu, Paul Albitz
 Applied Cryptography: Protocols, Algorithms, and Source Code in C - Bruce Schneier
 OpenSSH, PuTTY, Tunnels and Keys - Michael W. Lucas
+SSH, The Secure Shell - Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes
+Implementing SSL/TLS Using Cryptography and PKI - Davie
+  sites:
+http://www.sans.org/ - безопасность
+http://www.cert.org/ - безопасность
+http://www.insecure.org/ - безопасность
