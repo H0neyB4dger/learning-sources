@@ -1,3 +1,4 @@
+  books:
 Фейнмановские лекции по физике
 Operating System Concepts
 Systems Performance: Enterprise and the Cloud
@@ -5,3 +6,7 @@ Systems Performance: Enterprise and the Cloud
 Linux. Системное программирование - Роберт Лав
 Bash. Карманный справочник системного администратора - Арнольд Роббинс
 Linux глазами хакера - Михаил Фленов
+Computer Networks - Andrew S. Tanenbaum, David J. Wetherall
+DNS and BIND - Cricket Liu, Paul Albitz
+Applied Cryptography: Protocols, Algorithms, and Source Code in C - Bruce Schneier
+OpenSSH, PuTTY, Tunnels and Keys - Michael W. Lucas
