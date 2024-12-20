@@ -12,6 +12,9 @@ Applied Cryptography: Protocols, Algorithms, and Source Code in C - Bruce Schnei
 OpenSSH, PuTTY, Tunnels and Keys - Michael W. Lucas
 SSH, The Secure Shell - Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes
 Implementing SSL/TLS Using Cryptography and PKI - Davie
+Unix Network Programming, Volume 1 - W. Richard Stephens, Bill Fenner, Andrew M. Rudoff
+Unix Shell Programming - Stephen G. Kochan
+The UNIX Programming Environment - Bran W. Kernighan, Rob Pike
   sites:
 http://www.sans.org/ - безопасность
 http://www.cert.org/ - безопасность
