@@ -18,6 +18,14 @@ The UNIX Programming Environment - Bran W. Kernighan, Rob Pike
 Using Samba
 The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie
 Linkers and Loaders - John R. Levine
+Debugging with GDB - Richard M. Stallman
+The Art of Debugging - Norman Matloff, Peter Jay Salzma
+Python Essential Reference - David M. Beazley
+Learning Perl - Randal L. Schwartz, Brian D. Foy, Tom Phoenix
+Modern Perl - Chromatic
+The Art of R Programming - Norman Matloff
+Compilers: Principles, Techniques and Tools - Alfred V. Aho
+Modern Compiler Design - Dick Grune
   articles:
 The Inside Story on Shared Libraries and Dynamic Loading - David M. Beazley, Brian D. Ward, Ian R. Cooke
   sites:
@@ -25,3 +33,5 @@ http://www.sans.org/ - безопасность
 http://www.cert.org/ - безопасность
 http://www.insecure.org/ - безопасность
 http://dwheeler.com/program-library/ - Program Library HOWTO
+http://valgrind.org/ - выявление проблем в памяти и запуск профильных тестов
+http://llvm.org/
