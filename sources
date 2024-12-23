@@ -15,7 +15,13 @@ Implementing SSL/TLS Using Cryptography and PKI - Davie
 Unix Network Programming, Volume 1 - W. Richard Stephens, Bill Fenner, Andrew M. Rudoff
 Unix Shell Programming - Stephen G. Kochan
 The UNIX Programming Environment - Bran W. Kernighan, Rob Pike
+Using Samba
+The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie
+Linkers and Loaders - John R. Levine
+  articles:
+The Inside Story on Shared Libraries and Dynamic Loading - David M. Beazley, Brian D. Ward, Ian R. Cooke
   sites:
 http://www.sans.org/ - безопасность
 http://www.cert.org/ - безопасность
 http://www.insecure.org/ - безопасность
+http://dwheeler.com/program-library/ - Program Library HOWTO
