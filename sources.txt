@@ -9,7 +9,8 @@
 Computer Networks - Andrew S. Tanenbaum, David J. Wetherall 1
 DNS and BIND - Cricket Liu, Paul Albitz 1
 The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 1
-Совершенный алгоритм. Графовые алгоритмы и структуры данных Тим Рафгарден 2
+Совершенный алгоритм. Графовые алгоритмы и структуры данных - Тим Рафгарден 2
+Математика для computer science - Эрик Леман, Том Лайтен 2
 Введение в анализ алгоритмов - Майкл Солтис 2
 Crafting interpretors 2
 Operating System Concepts 2
@@ -38,6 +39,8 @@ Learning Perl - Randal L. Schwartz, Brian D. Foy, Tom Phoenix 3
 Modern Perl - Chromatic 3
 The Art of R Programming - Norman Matloff 3
 Фейнмановские лекции по физике 4
+Френсис Йейтс - Искусство памяти 4
+Джонатан Спенс - Дворец памяти Матэо Ричи 4
   articles:
 The Inside Story on Shared Libraries and Dynamic Loading - David M. Beazley, Brian D. Ward, Ian R. Cooke 3
   sites:
@@ -47,3 +50,4 @@ http: //www.insecure.org/ - безопасность 1
 http: //dwheeler.com/program-library/ - Program Library HOWTO 2
 http: //valgrind.org/ - выявление проблем в памяти и запуск профильных тестов 2
 http: //llvm.org/ 2
+https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability 3

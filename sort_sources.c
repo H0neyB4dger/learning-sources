@@ -55,12 +55,8 @@ int read_categories(char dest[][MAX_LINES][MAX_CHAR], FILE *file)
 void fill_first(char arr[MAX_CATEGORIES][MAX_LINES][MAX_CHAR])
 {
   for (int i = 0; i < MAX_CATEGORIES; i++)
-  {
     for (int j = 0; j < MAX_LINES; j++)
-    {
       arr[i][j][0] = '\0';
-    }
-  }
 }
 
 int compare(const void *pa, const void *pb)
@@ -82,16 +78,12 @@ void sort(char arr[][MAX_LINES][MAX_CHAR])
 void write(char arr[][MAX_LINES][MAX_CHAR], int cats, FILE *file)
 {
   for (int i = 0; i < cats; i++)
-  {
     for (int j = 0; j < MAX_LINES; j++)
     {
       int length = (int) strlen(arr[i][j]);
       for (int k = 0; k < length; k++)
-      {
         putc(arr[i][j][k], file);
-      } 
     }
-  }
 }
 
 int main()
@@ -108,3 +100,4 @@ int main()
   fclose(file);
   return 0;
 }
+// fgets
