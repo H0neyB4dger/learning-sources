@@ -43,7 +43,9 @@ The Art of R Programming - Norman Matloff 3
 Джонатан Спенс - Дворец памяти Матэо Ричи 4
   articles:
 The Inside Story on Shared Libraries and Dynamic Loading - David M. Beazley, Brian D. Ward, Ian R. Cooke 3
-  sites:
+Алгоритмы поиска в глубину и линейные графовые алгоритмы - Роберта Э.Тарьян 3
+Структура графа в Сети - Андрей Бродера, Рави Кумар, Фарзин Магуль, Прабхакар Рагхаван, Шридхар Раджагопалан, Райми Стат, Эндрю Томкинс и Джанет Винер 4
+sites:
 http: //www.sans.org/ - безопасность 1
 http: //www.cert.org/ - безопасность 1
 http: //www.insecure.org/ - безопасность 1
